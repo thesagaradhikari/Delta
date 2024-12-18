@@ -6,3 +6,11 @@ Anchors are used to create links to other web pages or to a specific location wi
 
 Image Element:-
 The image element is used to add images to a web page.
+
+HTML Attribute:-
+Attributes are used to add more info to the tag.
+
+Br tag:-
+will add a line break for long form sentence.
+
+To do a comment do click ctrl + forward slash
